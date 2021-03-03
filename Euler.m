@@ -27,5 +27,4 @@ end
 
 end
 
-function(a):
-qui fait qqc
+% new function by kf
