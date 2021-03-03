@@ -1,7 +1,8 @@
+% change made on websit
 function [ X,err ] = Euler( f,x0,t0,T,solth )
 
-% Dans le cas où T n'est pas donné lors de l'appel (solth non plus)
-ne = nargin();  % nombre d'entrées
+% Dans le cas oÃ¹ T n'est pas donnÃ© lors de l'appel (solth non plus)
+ne = nargin();  % nombre d'entrÃ©es
 if ne<4
     l = 10;
     k = 100;
