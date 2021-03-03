@@ -9,7 +9,7 @@ if ne<4
     T = t0 : (l - t0)/(k+1) : l
 end
 
-    
+% truc truc
 N = length(T);
 m = size(x0, 1);
 X = zeros(m, N);
