@@ -26,6 +26,3 @@ else
 end
 
 end
-
-function(a):
-qui fait qqc
